@@ -2,6 +2,6 @@ todo:
 
 1. to install Git -- Y
 2. to setup my Github account(roo)
-3. to link my Github with VS Code -- Y!
+3. to link my Github with VS Code -- Y
 4. to modifiy my todo list
 5. to add new todo
