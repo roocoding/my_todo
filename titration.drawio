@@ -1,1 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T11:32:19.553Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="PBp2wJ3A72k5AnUlPZUn" version="20.7.4" type="github"><diagram id="I9DXT-ueyr1dZtZgeZVM" name="Page-1">7Vrfc+I2EP5r9JiMf1t+tA20N3M3k2k6be/eDAjw1CDGFgfcX9+VLBssC0IIBpI0L7FW0tra/fTtrgSy4/nmtzxZzr7RMcmQZYw3yO4hyzLNwIF/XLItJZ6PS8E0T8dy0E7wnP4iUmhI6Sodk6IxkFGasXTZFI7oYkFGrCFL8pyum8MmNGu+dZlMSUvwPEqytvTvdMxmpRRb/k7+O0mns+rNpheUPfOkGixXUsySMV3view+suOcUlY+zTcxybjxKruU8wYHeusPy8mCnTJh663pMHoKi6+/Vt+3f03o84/tg1tq+ZlkK7lg1HcRxgh7qO+hoI8CA/UdFEUoDOU62LYyDixpyR9X8+xrOiFZuoBWtCR5OieM5NCTSfHTThatZykjz8tkxKeuATYgm7F5Bi0THsGTLIEped3OsmRZpEPxVgMkORmt8iL9Sf4gRQkYLqUrxt8U10DgQrk8kjOyOWg3s/YGwJhQ+M58C0OqCYF04FZpr3d4MA0pm+1hwbelMJEYnNa6d26CB+mpV3itWoTqtgEKTNQPEDYQNoXbMIqqrtDmHsUxwn7lUdibhmMYhilMrXp3zyfcgClsijBLpwuQDSljdA4dBUtyFvJ9BlIK31PJBmlWTSaLcTVimNHRv9UQudkx9yhdLcZk3HAaGbd25s5lx8AMuqfk2DhP7+89f3rScznJEgZAa9KKxp1S2xNN4Qtr6LgKcrACiIKu8hGRk/a3rqLHNF9QVC65pUiAq17h+XizdTThcwgFAlRBDwUD/gCSyOF4C4E42nzxYRHl3whR7qUQ1VLUNaI8DaIASMBLfQGtHocQAAma2NVACyShgSKfSwCE+KPQ18EwZDwahm22Is+FcPWgAsJzzkSWEzy6xzUdgNZOUzWQTiYF6QZ+vjaARjEPnRxjPsKRDnUDMSbmQTa0EHbqMS6A7aMi8BpwO5fI2nC7MpO1iSz8IjIuAIbNqSyE4Fgm0zGK3mMOXb2/lxQzBWJvSqxt7+4Sa1PHC5hnzFD98EhjoHAgvBuiEB/b8EuON/F5boTcnuJSmrMZndJFku079SSbviajrfaIskN0Zm5bWaXtyxkZa4ws9gkO6pBfliWyhAmPRvc7NrVp3djWfL4u0PUFoCHK9QWgddZ3autb79X6WkJpW7+7Ot3WWN/jqQXuCeuLTKM8cAlFLgGRIhRd4B5ewpdF/XtlmhrXt4K/rYO/rnCF2BzGnOpF4cEjOIRvV7jA50yPo3fjAqfhAufEPdAdAwWfioHshvVt98YMVCn+PAzUdIBj3JqBdEe1qnEfzju95XsETNE7ujuuW3mC6/LtP7wBZZlsfhdNbFft3mZ/cG+739qDyJsq2asd8Tq+Un86fvAYGLs/ReOpde2DWaVup+nt+rxOl8l8lJy9GTFdt33KdlXK0NSgJx4aJHyrp8tEGAP6whGj+e1OE1TqYZQrLuA96WL6J2/0bK/Dmzu/eb5gaWKBddXjBV3h2zpUeMX96yk0r6HwyxwWSpi+eDfy8qEivgwVK0eKvuLFU5k3OK6mY6LVZcuf/F7kjUC7yv2JekFrngk+/wU9d3B3YupKiv/vTi5Hhx1B0r0QJFU9HROi5egZMZbnBxetpMDIXgbei4Y5PE35k8B2gCJP6gmc9iv4dJt/G+8BmSV6fD7qbnB9g8rsQHbWQRFmqLeArnGRKqxO8k9T23URptsKb/zZ1x2dHdwToizHVhDVqgpOvqE27eOKukaNvur4RD8WvCJqmnSBg3Mx0yK0lqqzUQPN3Y+Oy+G7n27b/f8A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-08T12:44:23.910Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KZSt58vZL6C3HGZ-8u9G" version="20.7.4" type="github">
+  <diagram id="I9DXT-ueyr1dZtZgeZVM" name="Page-1">
+    <mxGraphModel dx="1194" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-5" value="分析仪" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="190" width="100" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-21" value="发送串口指令 40001=1" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" parent="y6wobBPAsLzuYyVfoSZy-5" target="y6wobBPAsLzuYyVfoSZy-6" edge="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="50" y="180" as="sourcePoint" />
+            <mxPoint x="110" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_r-T3VkqyiKVVPjlkhmP-1" value="发送指令40004=1&lt;br&gt;滴加试剂&lt;br&gt;发送指令40004=2" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="y6wobBPAsLzuYyVfoSZy-5">
+          <mxGeometry x="45" y="340" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-6" value="AI决策机" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;lifelineDashed=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="190" width="100" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-17" value="自启动" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y6wobBPAsLzuYyVfoSZy-6" vertex="1">
+          <mxGeometry x="45" y="60" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-18" value="等待40001为1" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y6wobBPAsLzuYyVfoSZy-6" vertex="1">
+          <mxGeometry x="45" y="120" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-22" value="循环等待40004为2" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y6wobBPAsLzuYyVfoSZy-6" vertex="1">
+          <mxGeometry x="45" y="190" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-23" value="拍照判断突变" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y6wobBPAsLzuYyVfoSZy-6" vertex="1">
+          <mxGeometry x="45" y="240" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-35" value="结束滴定" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" parent="y6wobBPAsLzuYyVfoSZy-6" edge="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="-120.5" y="650" as="sourcePoint" />
+            <mxPoint x="-281" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-36" value="放置待滴定样品" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" parent="y6wobBPAsLzuYyVfoSZy-6" edge="1">
+          <mxGeometry x="0.0031" width="60" relative="1" as="geometry">
+            <mxPoint x="-280.5" y="710" as="sourcePoint" />
+            <mxPoint x="-121" y="710" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-37" value="开始滴定，预滴5ml" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" parent="y6wobBPAsLzuYyVfoSZy-6" edge="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="-280.5" y="750" as="sourcePoint" />
+            <mxPoint x="-121" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-32" value="结束本轮AI流程" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y6wobBPAsLzuYyVfoSZy-6" vertex="1">
+          <mxGeometry x="43.5" y="560" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-29" value="循环等待40004为2" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y6wobBPAsLzuYyVfoSZy-6" vertex="1">
+          <mxGeometry x="42.5" y="420" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-30" value="拍照判断突变" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y6wobBPAsLzuYyVfoSZy-6" vertex="1">
+          <mxGeometry x="42.5" y="470" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-31" value="突变-发送串口指令40002=2" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;entryX=0.5;entryY=0.83;entryDx=0;entryDy=0;entryPerimeter=0;" parent="y6wobBPAsLzuYyVfoSZy-6" edge="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="47" y="549.9000000000001" as="sourcePoint" />
+            <mxPoint x="-122.5" y="549.9000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-33" value="等待40001为1" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y6wobBPAsLzuYyVfoSZy-6" vertex="1">
+          <mxGeometry x="43.5" y="621" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-34" value="发送串口指令 40001=2" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" parent="y6wobBPAsLzuYyVfoSZy-6" edge="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="-117" y="610" as="sourcePoint" />
+            <mxPoint x="52.5" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-38" value="发送串口指令 40001=1" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" parent="y6wobBPAsLzuYyVfoSZy-6" edge="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="-120.5" y="770" as="sourcePoint" />
+            <mxPoint x="49" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-7" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="200" width="20" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-8" value="启动分析仪" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="y6wobBPAsLzuYyVfoSZy-7" target="y6wobBPAsLzuYyVfoSZy-5" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="10" y="70" as="sourcePoint" />
+            <mxPoint x="90" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-9" value="放置待滴定样品" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" parent="y6wobBPAsLzuYyVfoSZy-7" target="y6wobBPAsLzuYyVfoSZy-5" edge="1">
+          <mxGeometry x="0.0031" width="60" relative="1" as="geometry">
+            <mxPoint x="10" y="110" as="sourcePoint" />
+            <mxPoint x="70" y="110" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-10" value="开始滴定，预滴5ml" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" parent="y6wobBPAsLzuYyVfoSZy-7" target="y6wobBPAsLzuYyVfoSZy-5" edge="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="10" y="150" as="sourcePoint" />
+            <mxPoint x="70" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y6wobBPAsLzuYyVfoSZy-24" value="未突变-发送串口指令40002=1&lt;br&gt;并且发送40003=剂量" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;entryX=0.5;entryY=0.83;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="409.5" y="509.9000000000001" as="sourcePoint" />
+            <mxPoint x="240" y="509.9000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
