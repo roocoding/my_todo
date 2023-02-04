@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-04T09:27:08.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="bi2u9p8fSy_ifTh1ihRB" version="20.8.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-04T10:41:45.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="UHv_QsvAeNl-AZuSA9wP" version="20.8.3" type="github" pages="3">
   <diagram id="ek8dR2wsrhsVzcpTvTgw" name="Page-1">
     <mxGraphModel dx="1194" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -494,13 +494,13 @@
           <mxGeometry x="220" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OwAQtI-1xwNUVh5kIDu8-1" value="发送echo&lt;br&gt;停止AI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="460" y="120" width="80" height="80" as="geometry" />
+          <mxGeometry x="494" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OwAQtI-1xwNUVh5kIDu8-2" value="发送echo&lt;br&gt;启动AI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OwAQtI-1xwNUVh5kIDu8-3" value="读串口超时" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="350" y="120" width="80" height="80" as="geometry" />
+          <mxGeometry x="390" y="90" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UBvwicdixHOqummKifZO-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -520,13 +520,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D1NMIZLmNyUNdnvuZQA_-2" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k2aLp_3VaQQC1zUxqOLw-1" target="OwAQtI-1xwNUVh5kIDu8-3">
+        <mxCell id="D1NMIZLmNyUNdnvuZQA_-2" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k2aLp_3VaQQC1zUxqOLw-1" target="OwAQtI-1xwNUVh5kIDu8-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="288.28427124746213" y="198.28427124746213" as="sourcePoint" />
             <mxPoint x="351.71572875253787" y="198.28427124746213" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="200" />
-              <mxPoint x="350" y="200" />
+              <mxPoint x="370" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -539,7 +538,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D1NMIZLmNyUNdnvuZQA_-4" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;shadow=0;startArrow=classic;startFill=1;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k2aLp_3VaQQC1zUxqOLw-1" target="OwAQtI-1xwNUVh5kIDu8-1">
+        <mxCell id="D1NMIZLmNyUNdnvuZQA_-4" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;startArrow=classic;startFill=1;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k2aLp_3VaQQC1zUxqOLw-1" target="OwAQtI-1xwNUVh5kIDu8-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="288.28427124746213" y="198.28427124746213" as="sourcePoint" />
             <mxPoint x="520.2682341501134" y="186.75858926489832" as="targetPoint" />
@@ -553,11 +552,11 @@
             <mxPoint x="248.4110639798687" y="250.79446801006566" as="sourcePoint" />
             <mxPoint x="320" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="230" />
+              <mxPoint x="290" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX-5MrRx_TAj1wi97YZ-1" value="读串口&lt;br&gt;是否AI查询&lt;br&gt;40003" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+        <mxCell id="dSX-5MrRx_TAj1wi97YZ-1" value="读串口&lt;br&gt;等待AI查询&lt;br&gt;40002" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="190" y="380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dSX-5MrRx_TAj1wi97YZ-2" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSX-5MrRx_TAj1wi97YZ-1" target="OwAQtI-1xwNUVh5kIDu8-2">
@@ -582,12 +581,104 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX-5MrRx_TAj1wi97YZ-5" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;shadow=0;startArrow=classic;startFill=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSX-5MrRx_TAj1wi97YZ-1" target="dSX-5MrRx_TAj1wi97YZ-3">
+        <mxCell id="dSX-5MrRx_TAj1wi97YZ-5" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;startArrow=classic;startFill=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSX-5MrRx_TAj1wi97YZ-1" target="dSX-5MrRx_TAj1wi97YZ-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270.00427124746216" y="533.0042712474622" as="sourcePoint" />
             <mxPoint x="481.72" y="534.72" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="350" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSX-5MrRx_TAj1wi97YZ-7" value="发送echo&lt;br&gt;蠕动泵已停止" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dSX-5MrRx_TAj1wi97YZ-8" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSX-5MrRx_TAj1wi97YZ-1" target="dSX-5MrRx_TAj1wi97YZ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="266.44427124746215" y="521.7157287525379" as="sourcePoint" />
+            <mxPoint x="453.56552869302203" y="520.9342213319178" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="480" />
               <mxPoint x="360" y="510" />
+              <mxPoint x="410" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSX-5MrRx_TAj1wi97YZ-9" value="读串口&lt;br&gt;等待AI发送&lt;br&gt;步长" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="380" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dSX-5MrRx_TAj1wi97YZ-10" value="" style="curved=1;endArrow=none;html=1;rounded=0;shadow=0;startArrow=classic;startFill=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSX-5MrRx_TAj1wi97YZ-9" target="dSX-5MrRx_TAj1wi97YZ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="545" as="sourcePoint" />
+            <mxPoint x="445.71572875253787" y="583.2842712474621" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSX-5MrRx_TAj1wi97YZ-11" value="发送echo&lt;br&gt;原样返回" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dSX-5MrRx_TAj1wi97YZ-12" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSX-5MrRx_TAj1wi97YZ-9" target="dSX-5MrRx_TAj1wi97YZ-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260.00427124746216" y="646.7157287525379" as="sourcePoint" />
+            <mxPoint x="447.12552869302203" y="645.9342213319178" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSX-5MrRx_TAj1wi97YZ-14" value="读串口&lt;br&gt;等待AI发送&lt;br&gt;已到终点" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="650" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dSX-5MrRx_TAj1wi97YZ-15" value="" style="curved=1;endArrow=none;html=1;rounded=0;shadow=0;startArrow=classic;startFill=1;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSX-5MrRx_TAj1wi97YZ-14" target="dSX-5MrRx_TAj1wi97YZ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385.9975046777556" y="630.0499064448886" as="sourcePoint" />
+            <mxPoint x="471.71572875253787" y="568.2842712474621" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSX-5MrRx_TAj1wi97YZ-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSX-5MrRx_TAj1wi97YZ-17" target="k2aLp_3VaQQC1zUxqOLw-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="500" as="sourcePoint" />
+            <mxPoint x="110" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSX-5MrRx_TAj1wi97YZ-17" value="发送echo&lt;br&gt;原样返回" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dSX-5MrRx_TAj1wi97YZ-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSX-5MrRx_TAj1wi97YZ-14" target="dSX-5MrRx_TAj1wi97YZ-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="690" as="sourcePoint" />
+            <mxPoint x="100" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSX-5MrRx_TAj1wi97YZ-19" value="驱动&lt;br&gt;蠕动泵" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="140" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dSX-5MrRx_TAj1wi97YZ-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSX-5MrRx_TAj1wi97YZ-11" target="dSX-5MrRx_TAj1wi97YZ-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="155" y="740" as="sourcePoint" />
+            <mxPoint x="205" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSX-5MrRx_TAj1wi97YZ-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSX-5MrRx_TAj1wi97YZ-19" target="dSX-5MrRx_TAj1wi97YZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="520" as="sourcePoint" />
+            <mxPoint x="215" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="185" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
